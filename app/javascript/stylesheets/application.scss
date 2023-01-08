@@ -1,5 +1,5 @@
-@import "~bootstrap/scss/bootstrap.scss";
-@import '~@fortawesome/fontawesome-free/scss/fontawesome'; 
+// @import "~bootstrap/scss/bootstrap.scss";
+// @import '~@fortawesome/fontawesome-free/scss/fontawesome';
 
 body {
   background-color: #E6F8F9;
@@ -177,11 +177,11 @@ footer{
     height: 60px;
     border-radius: 20px;
   }
-  
+
   input[type="text"] {
     width: 250px;
   }
-  
+
   input[type="password"]{
     width: 500px;
     height: 50px;
@@ -221,9 +221,9 @@ footer{
   }
 
   .syousai{
-    display: block; 
+    display: block;
     padding: 15px;
-    margin: 0px; 
+    margin: 0px;
   }
 
   input[type="password"]{

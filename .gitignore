@@ -76,3 +76,4 @@ yarn-debug.log*
 
 # Ignore sitemap file
 public/sitemap.xml.gz
+/config/master.key
